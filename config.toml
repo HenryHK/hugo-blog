@@ -1,0 +1,27 @@
+baseURL = "https://lhan.quest"
+title = "Lin Han's Blog"
+theme = "paper"
+
+[params]
+    # show header social icons
+    # twitter = 'YOUR_TWITTER_ID'     # twitter.com/YOUR_TWITTER_ID
+    github = 'HenryHK'       # github.com/YOUR_GITHUB_ID
+    # instagram = 'YOUR_INSTAGRAM_ID' # instagram.com/YOUR_INSTAGRAM_ID
+    # rss = true                      # show rss icon with link
+
+    # show home page profile
+    avatar = 'henryhan.hku@gmail.com'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+    name = 'Lin Han'
+    bio = 'A gopher, (n)vimmer, and surely a software engineer'
+
+    # misc
+    disableHLJS = true              # disable requesting highlight.js
+    monoDarkIcon = true             # show monochrome dark mode icon
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
