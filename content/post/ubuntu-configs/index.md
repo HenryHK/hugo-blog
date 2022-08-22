@@ -1,8 +1,13 @@
----
-title: My Ubuntu Configuration
-date: 2017-09-28 17:27:25
-draft: false
----
++++
+title = "My Ubuntu Configuration"
+date = "2017-09-28 17:27:25"
+draft = "false"
+tags = [
+    "ubuntu",
+    "linux",
+    "configurations",
+]
++++
 
 This article aims to backup my configuration on Ubuntu.
 
