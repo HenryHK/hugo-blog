@@ -1,11 +1,11 @@
 +++
 title = "My Ubuntu Configuration"
-date = "2017-09-28 17:27:25"
+date = "2017-09-28"
 draft = "false"
 tags = [
-    "ubuntu",
-    "linux",
-    "configurations",
+    "Ubuntu",
+    "Linux",
+    "Configurations",
 ]
 +++
 
